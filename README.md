@@ -1,8 +1,8 @@
-# vknoppkewetzel.github.io
-Portfolio website - updated April 2024
+# vkwetzel.github.io
 
-On 9/12/2025, Github continuously failed my 2FA authentication (Authy) and did not allow me to recover my account or begin the recovery account process. My Github is still logged in on my Desktop. This is my test to see if I can access my Github and push up this note. 
+Vanessa Knoppke-Wetzel's new Portfolio site as of 04/28/2026. 
 
-Give me back my Github :(
+------------
+Portfolio website - updated April 2024, originally vknoppkewetzel.github.io but Github locked me out April 2025 and refused to give back. RIP
 
-    3/23/2026 testing Github Desktop connection - still no access granted from Github 
+
